@@ -1,0 +1,9 @@
+estrutura do css
+body{/*corpo pagina*/
+   background:#90EE90;/*colocar corres*/
+   color:white;
+}/*corpo pagina*/
+.conteudo{
+	background:#F5DEB3;/*colocar corres*/
+   color:black;
+}

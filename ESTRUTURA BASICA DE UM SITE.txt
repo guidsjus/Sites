@@ -1,0 +1,23 @@
+ESTRUTURA BASICA DE UM SITE 
+<!--site responsivo adapta qualquer telas -->
+<!DOCTYPE html><!--leitura pagina html-->
+
+<html lang = "pt-br"><!--parametro--><!--portugues-->
+
+<head><!--cabeçalho interneo caminho titulos-->
+
+	<meta charset="utf-8"><!--acentuação-->
+	<!--adicionar informação site-->
+	<meta name="viwport" content="widht =device-width, user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1"><!--site resposivo vai mudando dos objetos dispositivo-->
+	<meta name="keywords" content="curso de programação web"><!--chave de busca quantas quiser-->
+	<link rel = "shorctcut icon" type="image/x-icon "href = "imagens/r.png"/><!--recebe referencia fechar com barra  --><!--icone -->
+	<title>Meu primeiro site</title><!--links ebtre outros-->
+
+</head>
+
+<body><!--conteudo do site-->
+guilherme
+
+</body>
+
+</html>
